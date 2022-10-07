@@ -192,7 +192,7 @@
 #direitadobra04 {
     float: right;
     text-align: center;
-    margin: 130px 300px 130px 300px;
+    margin: 65px 300px 65px 300px;
 }
 
 #direitadobra04 p {
@@ -238,7 +238,7 @@ input {
 #informacoes {
     display: grid;
     grid-template-columns: 270px 180px 180px 180px auto;
-    margin: 0px 500px;
+    margin: 40px 470px 50px 430px;
     float: left;
     width: 1000px;
     line-height: 30px;
@@ -268,7 +268,7 @@ input {
 
 #Sobre-nos {
     font-family: sans-serif;
-    color: white; 
+    color: white;
 }
 
 #Suporte {
