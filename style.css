@@ -238,7 +238,7 @@ input {
 #informacoes {
     display: grid;
     grid-template-columns: 270px 180px 180px 180px auto;
-    margin: 40px 470px 50px 430px;
+    margin: 30px 470px 50px 430px;
     float: left;
     width: 1000px;
     line-height: 30px;
